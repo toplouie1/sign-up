@@ -31,7 +31,12 @@ function App() {
 						<br />
 
 						<input type="text" placeHolder="password" />
+						<br />
+						<br />
+						<button>Create New Account </button>
 					</form>
+					<p>By joining. you agree to out terms of </p>
+					<p>Serviceand Privacy Policy</p>
 				</div>
 			</div>
 		</div>

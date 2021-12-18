@@ -1,22 +1,27 @@
-* {
-	background-color: #f2fafb;
-}
 .App {
 	display: flex;
 	justify-content: center;
 	text-align: center;
+	background-color: #f2fafb;
+}
+button {
+	color: white;
+	background-color: #334876;
+	padding: 8px 40px;
 }
 .outsideContainer {
-	border: 1px solid rgb(0, 0, 0);
+	border: 1px solid;
 	padding: 10px;
 	margin: 10px;
 	border-radius: 20px;
+	background-color: #bcbcc4;
 }
 .insideContainer {
-	border: 1px solid rgb(0, 0, 0);
+	border: 1px solid;
 	padding: 20px;
 	margin: 10px;
 	border-radius: 10px;
+	background-color: aliceblue;
 }
 
 .firstInput {
