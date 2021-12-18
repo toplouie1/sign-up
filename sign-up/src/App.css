@@ -7,24 +7,30 @@
 button {
 	color: white;
 	background-color: #334876;
-	padding: 8px 40px;
+	padding: 2px 30px;
 }
 .outsideContainer {
-	border: 1px solid;
-	padding: 10px;
-	margin: 10px;
+	margin: 60px;
 	border-radius: 20px;
-	background-color: #bcbcc4;
+	background-color: #e4f3f5;
 }
 .insideContainer {
-	border: 1px solid;
-	padding: 20px;
-	margin: 10px;
+	border: 1px solid white;
+	padding: 10px;
+	margin: 30px;
 	border-radius: 10px;
-	background-color: aliceblue;
+	background-color: white;
 }
 
 .firstInput {
 	width: 70px;
 	margin: 5px;
+}
+p {
+	font-size: 1px;
+	padding: 4px;
+	margin: 5px;
+}
+h2 {
+	font-size: 20px;
 }

@@ -5,10 +5,11 @@ function App() {
 		<div className="App">
 			<div className="outsideContainer">
 				<div className="insideContainer">
-					<h2>Join the </h2>
-					<h2>community</h2>
-					<p>Take your art to the next level. Get it</p>
-					<p>seen by millions of people</p>
+					<h2>Join the community</h2>
+					<p>
+						Take your art to the next level. <br /> Get itseen by millions of
+						people
+					</p>
 					<button>join with Facebook</button>
 					<p>or</p>
 					<form>
@@ -33,10 +34,12 @@ function App() {
 						<input type="text" placeHolder="password" />
 						<br />
 						<br />
-						<button>Create New Account </button>
+						<button>Create New Account</button>
 					</form>
-					<p>By joining. you agree to out terms of </p>
-					<p>Serviceand Privacy Policy</p>
+					<p>
+						By joining. you agree to out terms of <br /> Serviceand Privacy
+						Policy
+					</p>
 				</div>
 			</div>
 		</div>
