@@ -1,3 +1,25 @@
 * {
 	background-color: #f2fafb;
 }
+.App {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+.outsideContainer {
+	border: 1px solid rgb(0, 0, 0);
+	padding: 10px;
+	margin: 10px;
+	border-radius: 20px;
+}
+.insideContainer {
+	border: 1px solid rgb(0, 0, 0);
+	padding: 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.firstInput {
+	width: 70px;
+	margin: 5px;
+}
