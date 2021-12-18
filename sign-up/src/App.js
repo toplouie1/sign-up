@@ -5,10 +5,12 @@ function App() {
 		<div className="App">
 			<div className="outsideContainer">
 				<div className="insideContainer">
-					<h2>Join the community</h2>
+					<h2>
+						Join the <br /> community
+					</h2>
 					<p>
-						Take your art to the next level. <br /> Get itseen by millions of
-						people
+						Take your art to the next level. Get it
+						<br /> seen by millions of people
 					</p>
 					<button>join with Facebook</button>
 					<p>or</p>
